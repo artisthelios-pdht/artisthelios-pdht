@@ -1,7 +1,7 @@
 <h1 align="center">Pham Dang Hoang Thien</h1>
 <p align="center">IT Student • ML Learner • Aspiring Research</p>
 <p align="center">
-  <img src="./assets/starry.gif" width="100%" alt="banner" />
+  <img src="./assets/123.gif" width="100%" alt="banner" />
 </p>
 
 ---
