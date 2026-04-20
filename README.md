@@ -23,5 +23,6 @@
 ![Knex.js](https://img.shields.io/badge/Knex.js-D26B38)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 
-
-
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=artisthelios-pdht&theme=dark&background=0d1117&ring=e3b341&fire=e3b341&currStreakNum=e3b341&sideNums=e3b341&currStreakLabel=4285f4&sideLabels=4285f4&dates=768390" alt="GitHub Streak" />
+</p>
