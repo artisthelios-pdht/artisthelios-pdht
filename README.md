@@ -34,5 +34,4 @@
 ### 📊 Github Status
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=artisthelios-pdht&theme=dark&background=0d1117&ring=e3b341&fire=e3b341&currStreakNum=e3b341&sideNums=e3b341&currStreakLabel=4285f4&sideLabels=4285f4&dates=768390&hide_border=true" height="170px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=artisthelios-pdht&layout=compact&hide_border=true&bg_color=0d1117&title_color=e3b341&text_color=4285f4&icon_color=e3b341" height="170px" />
 </p>
