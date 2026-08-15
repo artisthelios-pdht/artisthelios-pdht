@@ -1,8 +1,5 @@
 <h1 align="center">Pham Dang Hoang Thien</h1>
 <p align="center">IT Student • ML Learner • Aspiring Research</p>
-<p align="center">
-  <img src="./assets/123.gif" width="100%" alt="banner" />
-</p>
 
 ---
 
@@ -31,7 +28,3 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=30363d&height=1&section=header" width="100%"/>
 
-### 📊 Github Status
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=artisthelios-pdht&theme=dark&background=0d1117&ring=e3b341&fire=e3b341&currStreakNum=e3b341&sideNums=e3b341&currStreakLabel=4285f4&sideLabels=4285f4&dates=768390&hide_border=true" height="170px" />
-</p>
